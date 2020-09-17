@@ -1,2 +1,2 @@
-minimum=90
-maximum=1000
+limitservice.minimum=8
+limitservice.maximum=200
